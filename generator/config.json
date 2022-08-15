@@ -1,0 +1,9 @@
+{
+    "token": "MTAwMDQ3MjUyMDU2NDE0NjIxNg.GJ02Qn.8bxWfMwxcvGJODx7d10jg_6dhrgT87FCdQkpk0",
+    "prefix": "!",
+    "RPC": "prefix bota '!'",
+    "webhook": "https://canary.discord.com/api/webhooks/999851755158392904/-TbTjo5P2vBGDlULZRnsp3oe7Kw-GH1sCkjTFWzvM24AYcBwAb_GPhuMY2RugKC1bwCB",
+    "version": "1.1",
+    "rate": "1",
+    "per": "15"
+}
